@@ -7,5 +7,6 @@ To make that easier I built **[Ordkort](https://ordkort.com)**: free flashcards 
 - 🃏 **[ordkort](https://github.com/silicq/ordkort)** – vanilla JS, Cloudflare Workers + D1, Anki decks in and out
 - 🇳🇴 [Norwegian words by topic](https://ordkort.com/en/norwegian/) in English, Polish, Ukrainian, Russian and Arabic
 - 📫 hei@ordkort.com
+- ✈️ **[@silicq](https://t.me/silicq)**
 
 Feedback, issues and "this could be better" are always welcome.
